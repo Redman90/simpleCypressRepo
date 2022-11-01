@@ -1,6 +1,8 @@
 # simpleCypressRepo
 Basic Cypress web and API tests
 
+Git repo:  https://github.com/Redman90/simpleCypressRepo
+
 Clone repo then:
 
 npm i
