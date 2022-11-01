@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "cypress-test",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
